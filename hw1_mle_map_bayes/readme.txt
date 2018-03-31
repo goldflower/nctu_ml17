@@ -1,0 +1,2 @@
+利用ipython notebook打開後
+照順序執行
